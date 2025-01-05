@@ -3,9 +3,16 @@
 ### Hi there 👋, Md Abu Sayed
 #### Web Developer
 
-As a passionate and skilled web developer, I specialize in creating dynamic, responsive websites and applications. My expertise spans front-end and back-end development, ensuring seamless user experiences and robust functionality. With a keen eye for design and a knack for problem-solving, I bring innovative solutions to life, leveraging the latest technologies and best practices. I thrive in collaborative environments, continuously learning and adapting to stay ahead in the ever-evolving web development landscape.
+I'm a passionate web developer specializing in full-stack development. My skills and expertise allow me to build robust and scalable web applications. I'm always eager to learn new technologies and improve my craft.
 
-Skills:  REACT / Next JS / Node JS / MERN stack 
+## 🔧 Technologies & Tools
+
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
 - 🔭 I’m currently working on MERN Stack  
 - 🌱 I’m currently learning AI  
