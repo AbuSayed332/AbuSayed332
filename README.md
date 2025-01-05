@@ -19,11 +19,22 @@ I'm a passionate web developer specializing in full-stack development. My skills
 - 👯 I’m looking to collaborate on Developer  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbuSayed332)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-abu-sayed-165892203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://engineerabusayed.netlify.app/)  
+ 
+
+## 📫 How to reach me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AbuSayed332)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abu-sayed-165892203/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://engineerabusayed.netlify.app/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuSayed332)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbuSayed332&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AbuSayed332)  
+
+
+
+
+
 
